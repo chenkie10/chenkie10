@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chenkie10
 - 👀 I’m interested in python、deep learning、data analyse
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI and Deeplearning
 - 📫 How to reach me Chenkie6@outlook.com
 
 <!---
